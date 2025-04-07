@@ -20,7 +20,7 @@ author: Chloee McLaughlin
 ###############################################
 
 navbar-links:
-  Home: "https//chloee-mclaughlin.github.io"
+  Home: "chloee-mclaughlin.github.io"
   About Me: "research"
   Resources: "pulications"
   CV: "CV"
@@ -57,7 +57,7 @@ social-network-links:
   linkedin: chloee-mclaughlin
   github: chloee-mclaughlin
   ORCID: 0000-0002-6345-6764
-  google-scholar: "https://scholar.google.com/citations?user=KEdGiqcAAAAJ&hl=en&authuser=1"
+  google-scholar: "http://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=KEdGiqcAAAAJ&authuser=1"
   bluesky: chloeemc.bsky.social
   
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom  
@@ -142,7 +142,7 @@ text-col: "#A8A676"
 link-col: "#414833"
 hover-col: "#414833"
 navbar-col: "#A8A676"
-navbar-text-col: "#A8A676"
+navbar-text-col: "##A8A676"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#A8A676"
