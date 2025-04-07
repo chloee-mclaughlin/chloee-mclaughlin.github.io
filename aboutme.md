@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Plant Biologist | Genomics & Bioinformatics | Science Communication
 ---
+This page is under construction!
 
 My name is Inigo Montoya. I have the following qualities:
 
