@@ -21,10 +21,10 @@ author: Chloee McLaughlin
 
 navbar-links:
   Home: "chloee-mclaughlin.github.io"
-  About Me: "chloee-mclaughlin.github.io/aboutme/"
-  Research: "chloee-mclaughlin.github.io/research"
-  Resources: "chloee-mclaughlin.github.io/pulications"
-  CV: "/assets/data/McLaughlinCV2024.pdf"
+  About Me: "aboutme/"
+  Research: "research"
+  Resources: "pulications"
+  CV: "CV"
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
  #Author's home: "https://deanattali.com"
@@ -262,7 +262,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Denver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
