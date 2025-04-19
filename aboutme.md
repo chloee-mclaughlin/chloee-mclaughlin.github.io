@@ -7,13 +7,7 @@ I am curently a Computational Biologist at [HudsonAlpha Institute for Biotechnol
 
 I recived my PhD from Penn State University and was co-advised by Ruairidh Sawers and Jesse Lasky. My doctoral research used a combination of genomic, phenotypic, physiological, and environmental data to better understand local adaptation in crop landraces (native varieties). I received my B.S. in Botany with a minor in Wildlife Ecology and Conservation in 2019 from the University of Florida. While at UF, my research focused on development of [sweet basil hybrids](https://www.provenwinners.com/plants/ocimum/pesto-besto-sweet-italian-basil-ocimum-hybrid) with downy mildew resistance, under the supervision of Dave Clark. I have also had the great pleasure of interning for the Smithsonian Gardens’ orchid collection department. When not thinking about cereal crops, I’m likely hiking, botanizing, or mountain biking.
 
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
 
-  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="Not found" />
-</div>
 
 
 ### My story
