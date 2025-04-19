@@ -21,9 +21,9 @@ author: Chloee McLaughlin
 
 navbar-links:
   Home: "chloee-mclaughlin.github.io"
-  About Me: "aboutme/"
+  About Me: "aboutme"
   Research: "research"
-  Resources: "pulications"
+  Publications: "pulications"
   CV: "CV"
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
