@@ -2,9 +2,13 @@
 layout: page
 title: Reseach projects 
 ---
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="Not found" />
-  <img src="" alt="Profile" style="width: 80px; height: auto; border-radius: 50%;">
+<div class="text-center">
+  <h1>
+  <br/>
+  <img src="{{ 'assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="Not found" />
+  <br/>  
+    Identifying the environmental gradients and loci underlying local adaptation
+</div>
 
   <br>Identifying the environmental gradients and loci underlying local adaptation
 Genotype-environment associations (GEAs) can be useful for identifying environmentally 
