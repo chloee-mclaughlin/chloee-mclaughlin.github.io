@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Publications
-subtitle: "[Google Scholar](https://scholar.google.com/citations?user=KEdGiqcAAAAJ) | [ORCiD](https://orcid.org/0000-0002-6345-6764)"
 ---
 
-##Preprints
+### [Google Scholar](https://scholar.google.com/citations?user=KEdGiqcAAAAJ) | [ORCiD](https://orcid.org/0000-0002-6345-6764)
+
+### Preprints
 
 Chloee M McLaughlin, Yuning Shi, Vishnu Viswanathan, Lorne Leonard, Ruairidh JH Sawers, Armen Kemanian, Jesse R Lasky (2024). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun. In Press. https://doi.org/10.1101/2024.05.18.594591
 
-##Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 Chloee M. McLaughlin*, Chauncy Hinshaw*, Stephania Sandoval-Arango, Michelle Zavala-Paez, Jill A. Hamilton (2025). Redlisting genetics: towards incorporation of genomic data in conservation assessments. https://doi.org/10.1007/s10592-024-01671-1
 
@@ -20,7 +21,7 @@ McLaughlin, C. M., Li, M., Perryman, M., Heymans, A., Schneider, H., Lasky, J. R
 
 Bellis, E.S.*, McLaughlin, C.M.*, dePamphilis, C.W. and Lasky, J.R. (2021). The geography of parasite local adaptation to host communities. Ecography, 44: 1205-1217. https://doi.org/10.1111/ecog.05730
 
-##Posters and Presentations
+### Posters and Presentations
 
 Chloee McLaughlin. Predicting maladaptation in crop landraces following a global climate catastrophe. AGBT-Ag. April 2025 (Orlando, FL).
 
@@ -40,7 +41,7 @@ Chloee McLaughlin, Meng Li. Detection of root traits and environmental associati
 
 Chloee Collins. Development of Ocimum recombinant inbred lines with downy mildew resistance. IPBC 2018.
 
-##Patents
+### Patents
 
 Dave Clark, Chloee McLaughlin. Besto Pesto. Proven Winners. (Available in Garden Centers and Online, Spring 2021)
 
