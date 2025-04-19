@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reseach projects 
+title: Reseach Projects 
 ---
 
 <div align="center">
