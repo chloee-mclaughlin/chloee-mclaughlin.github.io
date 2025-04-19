@@ -2,15 +2,14 @@
 layout: page
 title: Reseach projects 
 ---
-<div class="text-center">
-  <h1>
-  <br/>
-  <img src="{{ 'assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="Not found" />
-  <br/>  
-    Identifying the environmental gradients and loci underlying local adaptation
+
+<div align="center">
+  <img src="assets/img/mclaughlin_logo.jpg" alt="Alt text" width="600">
 </div>
 
-  <br>Identifying the environmental gradients and loci underlying local adaptation
+### Identifying the environmental gradients and loci underlying local adaptation
+
+<br>Identifying the environmental gradients and loci underlying local adaptation
 Genotype-environment associations (GEAs) can be useful for identifying environmentally 
 related loci, but it is often unclear which aspect(s) of the environment might drive 
 selection. I have developed a method that predicts trait variation across the multivariate 
