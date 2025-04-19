@@ -6,7 +6,7 @@ title: Research Projects
 <div align="center">
   <img src="assets/img/mclaughlin_logo.jpg" alt="McLaughlin Logo" width="600">
 </div>
-<img src="{{ 'assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="McLaughlin Logo" width="600">
+<img src="{{ '/assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="McLaughlin Logo" width="600">
 
 ### Identifying the environmental gradients and loci underlying local adaptation
 
