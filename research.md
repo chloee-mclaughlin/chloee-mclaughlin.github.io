@@ -27,3 +27,22 @@ loci associated with landrace maize…<br>
     <br><br>
   </div>
 
+<div align="center">
+  <img src="assets/img/corn_rainbow.jpg" alt="Alt text" width="600">
+</div>
+
+### Trade-offs driven by host-parasite co-evolution
+<br>Striga hermonthica is a root parasitic plant and is a major constraint to cereal crop yields in Sub-Saharan Africa.<br><br>
+
+<br>Certain ecotypes of sorghum have adapted resistance strategies in response to local parasite prevalence. Using physiological and high-throughput phenotyping, I work to identify trade-offs associated with host resistance strategies.<br><br>
+
+### Modeling disruptions to adaptation
+<br>Extreme and sudden changes to climate would threaten traditional local crop populations adapted to historic climates, while the diversity present in crops may enhance agricultural resilience under changing climate. Here, we develop a framework to characterize current crop genotype-environment relationships, quantify maladaptation across space and time, and search for suitable varietal substitutions in the case of soot-induced climate change, such as in a nuclear winter. We find that a soot-producing catastrophic event would result in the global maladaptation of crop landraces and a suitable varietal substitution may not exist for many locations. Our framework can be extended to understand the impacts of greenhouse gas induced climate change for plants adapted to historical local climates.<br><br>
+<div class="text-center">
+  <h1>
+<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.18.594591v3">Preprint available
+y</a> 
+    <br><br>
+  </div>
+
