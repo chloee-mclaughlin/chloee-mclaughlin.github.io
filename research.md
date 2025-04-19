@@ -4,16 +4,10 @@ title: Research Projects
 ---
 
 <div align="center">
-  <img src="assets/img/mclaughlin_logo.jpg" alt="McLaughlin Logo" width="600">
-</div>
 <img src="{{ '/assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="McLaughlin Logo" width="600">
+</div>
 
 ### Identifying the environmental gradients and loci underlying local adaptation
-
----
-thumbnail-img: /assets/img/mclaughlin_logo.jpg
----
-
 
 Genotype-environment associations (GEAs) can be useful for identifying environmentally related loci, but it is often unclear which aspect(s) of the environment might drive selection.  
 I have developed a method that predicts trait variation across the multivariate environment. Fitted models are then used with environmental data to project trait values onto a larger sample of available georeferenced genotypes and used in genome-wide association (GWA).
@@ -29,7 +23,7 @@ I have used this method to model adaptive variation described by environmental g
 </div>
 
 <div align="center">
-  <img src="assets/img/corn_rainbow.jpg" alt="Corn Rainbow" width="600">
+  <img src="{{ '/assets/img/corn_rainbow.jpg' | relative_url }}" alt="Corn Rainbow" width="1200">
 </div>
 
 ### Trade-offs driven by host-parasite co-evolution
