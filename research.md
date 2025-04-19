@@ -18,13 +18,12 @@ a larger sample of available georeferenced genotypes and used in genome-wide ass
 
 <br>I have used this method to model adaptive variation described by environmental gradients and identify 
 loci associated with landrace maize…<br>
-<div class="text-center">
-  <h1>
-<br>
+<div align="center">
+  <h3>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13673">Root anatomy</a> |
 <a href="https://www.nature.com/articles/s41477-024-01654-7">Microbiomes</a> |
 <a href="https://www.nature.com/articles/s41588-024-01761-3">Seminal root number</a>
-    <br><br>
+   </h3>
   </div>
 
 <div align="center">
