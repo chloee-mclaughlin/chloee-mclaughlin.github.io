@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 subtitle: [Google Scholar](https://scholar.google.com/citations?user=http://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=KEdGiqcAAAAJ&authuser=1) | [ORCiD](https://orcid.org/0000-0002-6345-6764)
-
 ---
 
 ##Preprints
