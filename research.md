@@ -10,8 +10,9 @@ title: Research Projects
 
 ### Identifying the environmental gradients and loci underlying local adaptation
 
+---
 thumbnail-img: /assets/img/mclaughlin_logo.jpg
-
+---
 
 
 Genotype-environment associations (GEAs) can be useful for identifying environmentally related loci, but it is often unclear which aspect(s) of the environment might drive selection.  
