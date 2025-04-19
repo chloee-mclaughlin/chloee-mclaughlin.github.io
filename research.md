@@ -41,8 +41,7 @@ loci associated with landrace maize…<br>
 <div class="text-center">
   <h1>
 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.18.594591v3">Preprint available
-y</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.18.594591v3">Preprint available</a> 
     <br><br>
   </div>
 
