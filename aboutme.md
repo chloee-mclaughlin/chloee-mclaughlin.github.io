@@ -6,10 +6,3 @@ subtitle: Plant Biologist | Genomics & Bioinformatics | Science Communication
 I am curently a Computational Biologist at [HudsonAlpha Institute for Biotechnology](https://www.hudsonalpha.org/?gad_source=1&gbraid=0AAAAACPIDCRpaufj82kFrQSVyESKvKbvw&gclid=CjwKCAjw8IfABhBXEiwAxRHlsBDgHQM1O1Dokl0ET_AyIvRWH3wrZzlv1tbgvVaqgj4di2YlycvzahoCLKgQAvD_BwE) and physically located in Fort Collins, CO at Colorado State University. My projects contribute to the broader mission of [Green Evolution](https://www.green-evolution.org/home), where we work to leverage pangenomics for accelerating African dryland cereals. My research interests broadly include- investigating the mechanisms by which plant biodiversity arises, is maintained, and how it can be leveraged for conservation and agricultural improvement. 
 
 I recived my PhD from Penn State University and was co-advised by Ruairidh Sawers and Jesse Lasky. My doctoral research used a combination of genomic, phenotypic, physiological, and environmental data to better understand local adaptation in crop landraces (native varieties). I received my B.S. in Botany with a minor in Wildlife Ecology and Conservation in 2019 from the University of Florida. While at UF, my research focused on development of [sweet basil hybrids](https://www.provenwinners.com/plants/ocimum/pesto-besto-sweet-italian-basil-ocimum-hybrid) with downy mildew resistance, under the supervision of Dave Clark. I have also had the great pleasure of interning for the Smithsonian Gardens’ orchid collection department. When not thinking about cereal crops, I’m likely hiking, botanizing, or mountain biking.
-
-
-
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
