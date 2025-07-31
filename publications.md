@@ -12,9 +12,10 @@ title: Publications
 
 ### Preprints
 
-[Chloee M McLaughlin, Yuning Shi, Vishnu Viswanathan, Lorne Leonard, Ruairidh JH Sawers, Armen Kemanian, Jesse R Lasky (2024). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun. In Press.](https://doi.org/10.1101/2024.05.18.594591)
+
 
 ### Peer-Reviewed Publications
+[McLaughlin C. M., Shi Y., Viswanathan V. et al.(2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289 (2025).](https://doi.org/10.1038/s41467-025-59488-6)
 
 [McLaughlin C. M., Hinshaw C., Sandoval-Arango S., Zavala-Paez M., Hamilton  J. A. (2025). Redlisting genetics: towards incorporation of genomic data in conservation assessments.](https://doi.org/10.1007/s10592-024-01671-1)
 
