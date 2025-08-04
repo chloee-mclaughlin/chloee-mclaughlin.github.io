@@ -2,11 +2,12 @@
 layout: page
 title: Research Projects
 ---
-<div class="section-box">
+
 <div align="center">
 <img src="{{ '/assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="McLaughlin Logo" width="600">
 </div>
 
+<div class="section-box">
 <h3 style="text-align: center;">Identifying the environmental gradients and loci underlying local adaptation</h3>
 
 Genotype-environment associations (GEAs) can be useful for identifying environmentally related loci, but it is often unclear which aspect(s) of the environment might drive selection.  
@@ -41,12 +42,14 @@ Here, we develop a framework to:
 We find that such catastrophic events would result in the global maladaptation of crop landraces, and a suitable varietal substitution may not exist for many locations.
 
 Our framework can be extended to understand the impacts of greenhouse gas–induced climate change for plants adapted to historical local climates.
-</div>
 
 <div align="center">
   <h4>
     <a href="https://doi.org/10.1038/s41467-025-59488-6">Nature Communications publication</a>
   </h4>
+</div>
+<div align="center">
+  <img src="{{ '/assets/img/SorghumBaseFig_v0.1.png' | relative_url }}" alt="SorghumClim" width="1200">
 </div>
 </div>
 
