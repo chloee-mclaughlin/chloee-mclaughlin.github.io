@@ -1126,10 +1126,10 @@ pre {
 }
 
 .section-box {
-  border: 1px solid #2b4d2f; /* light gray border */
+  border: 1px solid #2b4d2f; /* green border */
   padding: 1.5rem;
   margin-bottom: 2rem;
   border-radius: 8px;
-  background-color: #2b4d2f;
+  background-color: transparent;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); /* optional subtle shadow */
 }
