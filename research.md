@@ -2,7 +2,7 @@
 layout: page
 title: Research Projects
 ---
-
+<div class="section-box">
 <div align="center">
 <img src="{{ '/assets/img/mclaughlin_logo.jpg' | relative_url }}" alt="McLaughlin Logo" width="600">
 </div>
@@ -25,10 +25,9 @@ I have used this method to model adaptive variation described by environmental g
 <div align="center">
   <img src="{{ '/assets/img/corn_rainbow.jpg' | relative_url }}" alt="Corn Rainbow" width="1200">
 </div>
+</div>
 
-<h3 style="text-align: center;"> ----------------------------------------------------------------------</h3>
-
-
+<div class="section-box">
 <h3 style="text-align: center;">Modeling disruptions to adaptation and optimal migrations</h3>
 
 Extreme and sudden changes to climate threaten traditional local crop populations adapted to historic climates.  
@@ -49,16 +48,13 @@ Our framework can be extended to understand the impacts of greenhouse gas–indu
     <a href="https://doi.org/10.1038/s41467-025-59488-6">Nature Communications publication</a>
   </h4>
 </div>
+</div>
 
-<h3 style="text-align: center;"> ----------------------------------------------------------------------</h3>
-
-
+<div class="section-box">
 <h3 style="text-align: center;">Trade-offs driven by host-parasite co-evolution</h3>
 
 Striga hermonthica is a root parasitic plant and is a major constraint to cereal crop yields in Sub-Saharan Africa.
 
 Certain ecotypes of sorghum have adapted resistance strategies in response to local parasite prevalence.  
 Using physiological and high-throughput phenotyping, I work to identify trade-offs associated with host resistance strategies.
-
-
-
+</div>
