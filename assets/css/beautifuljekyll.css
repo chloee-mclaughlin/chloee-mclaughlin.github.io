@@ -1125,6 +1125,6 @@ pre {
   }
 }
 h1 {
-  font-size: 1rem;
+  font-size: 1rem !important;
   color: red;
 }
