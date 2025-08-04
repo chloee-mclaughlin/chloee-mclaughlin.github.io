@@ -706,7 +706,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  padding: 6.25rem 0;
+  padding: 3.25rem 0; #6.25
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
@@ -720,7 +720,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.2875rem;
+  font-size: 1.0rem; #1.2875
   line-height: 1.1;
   display: block;
   font-family: var(--header-font);
@@ -1123,8 +1123,4 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
-}
-h1 {
-  font-size: 1rem !important;
-  color: red;
 }
