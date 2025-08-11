@@ -11,11 +11,12 @@ title: Publications
 </div>
 
 ### Preprints
+[Strigolactone effects on Sorghum bicolor ecophysiology and symbioses. Chloee M. McLaughlin, Margarita Takou, Joel Masanga, Erica H. Lawrence-Paul, Evelyn J. Abraham, Melanie Perryman, Anna Calabritto, Amandeep Cheema, Baloua Nebie, Steven Runo, Joshua J. Kellogg, Roberta Croce, Daniel P. Schachtman, Huirong Gao, Ruairidh J. H. Sawers, Jesse R. Lasky. bioRxiv 2025.08.07.669140.](https://doi.org/10.1101/2025.08.07.669140)
 
-
+[Developing future resilience from signatures of adaptation across the sorghum pangenome. Geoffrey P. Morris, Avril M. Harder, Adam L. Healey, Chloee M. McLaughlin, Brian R. Rice et al. bioRxiv 2025.08.01.667986](https://doi.org/10.1101/2025.08.01.667986)
 
 ### Peer-Reviewed Publications
-[McLaughlin C. M., Shi Y., Viswanathan V. et al.(2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289 (2025).](https://doi.org/10.1038/s41467-025-59488-6)
+[McLaughlin C. M., Shi Y., Viswanathan V. et al. (2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289.](https://doi.org/10.1038/s41467-025-59488-6)
 
 [McLaughlin C. M., Hinshaw C., Sandoval-Arango S., Zavala-Paez M., Hamilton  J. A. (2025). Redlisting genetics: towards incorporation of genomic data in conservation assessments.](https://doi.org/10.1007/s10592-024-01671-1)
 
