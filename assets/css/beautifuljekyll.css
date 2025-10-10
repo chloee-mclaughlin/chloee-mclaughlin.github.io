@@ -1133,3 +1133,36 @@ pre {
   background-color: transparent;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); /* optional subtle shadow */
 }
+
+/* --- Side-by-side image and text section --- */
+.side-by-side {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.side-by-side img {
+  width: 45%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.side-by-side .text {
+  width: 50%;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Stack on small screens */
+@media (max-width: 768px) {
+  .side-by-side {
+    flex-direction: column;
+  }
+  .side-by-side img,
+  .side-by-side .text {
+    width: 100%;
+  }
+}
