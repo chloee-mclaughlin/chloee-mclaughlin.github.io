@@ -1137,7 +1137,6 @@ pre {
 /* --- Side-by-side image and text section --- */
 .side-by-side {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
@@ -1146,8 +1145,8 @@ pre {
 
 .side-by-side img {
   width: 45%;
+  max-width: 500px;
   border-radius: 8px;
-  object-fit: cover;
 }
 
 .side-by-side .text {
@@ -1155,12 +1154,13 @@ pre {
   font-size: 1.1rem;
   line-height: 1.6;
 }
-
-/* Stack on small screens */
+  
 @media (max-width: 768px) {
   .side-by-side {
     flex-direction: column;
+    text-align: center;
   }
+
   .side-by-side img,
   .side-by-side .text {
     width: 100%;
