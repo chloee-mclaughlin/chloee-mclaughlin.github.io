@@ -62,7 +62,7 @@ Certain ecotypes of sorghum have adapted resistance strategies in response to lo
 Using physiological and high-throughput phenotyping, I work to identify trade-offs associated with host resistance strategies.
 <div align="center">
   <h4>
-    <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13673">Preprint</a>
+    <a href="https://doi.org/10.1101/2025.08.07.669140">Preprint</a>
   </h4>
 </div>
 </div>
