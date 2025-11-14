@@ -29,28 +29,40 @@ I have used this method to model adaptive variation described by environmental g
 </div>
 
 <div class="section-box">
-<h3 style="text-align: center;">Modeling disruptions to adaptation and optimal migrations</h3>
+  <h3 style="text-align: center;">Modeling disruptions to adaptation and optimal migrations</h3>
 
-Extreme and sudden changes to climate threaten traditional local crop populations adapted to historic climates.  
-However, the diversity present in crops may enhance agricultural resilience under changing conditions.
+  <p>
+    Extreme and sudden changes to climate threaten traditional local crop populations adapted to historic climates.  
+    However, the diversity present in crops may enhance agricultural resilience under changing conditions.
+  </p>
 
-Here, we develop a framework to:</div>
-- Characterize current crop genotype-environment relationships,</div>
-- Quantify maladaptation across space and time, and</div>
-- Search for suitable varietal substitutions in the case of soot-induced climate change (e.g., nuclear winter).
+  <p>Here, we develop a framework to:</p>
 
-We find that such catastrophic events would result in the global maladaptation of crop landraces, and a suitable varietal substitution may not exist for many locations.
+  <ul>
+    <li>Characterize current crop genotype-environment relationships,</li>
+    <li>Quantify maladaptation across space and time,</li>
+    <li>Search for suitable varietal substitutions in the case of soot-induced climate change (e.g., nuclear winter).</li>
+  </ul>
 
-Our framework can be extended to understand the impacts of greenhouse gas–induced climate change for plants adapted to historical local climates.
+  <p>
+    We find that such catastrophic events would result in the global maladaptation of crop landraces, 
+    and a suitable varietal substitution may not exist for many locations.
+  </p>
 
-<div align="center">
-  <h4>
-    <a href="https://doi.org/10.1038/s41467-025-59488-6">Nature Communications publication</a>
-  </h4>
-</div>
-<div align="center">
-  <img src="{{ '/assets/img/SorghumBaseFig_v0.1.png' | relative_url }}" alt="SorghumClim" width="1200">
-</div>
+  <p>
+    Our framework can be extended to understand the impacts of greenhouse gas–induced climate change 
+    for plants adapted to historical local climates.
+  </p>
+
+  <div align="center">
+    <h4>
+      <a href="https://doi.org/10.1038/s41467-025-59488-6">Nature Communications publication</a>
+    </h4>
+  </div>
+
+  <div align="center">
+    <img src="{{ '/assets/img/SorghumBaseFig_v0.1.png' | relative_url }}" alt="SorghumClim" width="1200">
+  </div>
 </div>
 
 <div class="section-box">
