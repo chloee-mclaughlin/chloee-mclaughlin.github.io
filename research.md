@@ -34,9 +34,9 @@ I have used this method to model adaptive variation described by environmental g
 Extreme and sudden changes to climate threaten traditional local crop populations adapted to historic climates.  
 However, the diversity present in crops may enhance agricultural resilience under changing conditions.
 
-Here, we develop a framework to:
-- Characterize current crop genotype-environment relationships,
-- Quantify maladaptation across space and time, and
+Here, we develop a framework to:</div>
+- Characterize current crop genotype-environment relationships,</div>
+- Quantify maladaptation across space and time, and</div>
 - Search for suitable varietal substitutions in the case of soot-induced climate change (e.g., nuclear winter).
 
 We find that such catastrophic events would result in the global maladaptation of crop landraces, and a suitable varietal substitution may not exist for many locations.
@@ -60,4 +60,9 @@ Striga hermonthica is a root parasitic plant and is a major constraint to cereal
 
 Certain ecotypes of sorghum have adapted resistance strategies in response to local parasite prevalence.  
 Using physiological and high-throughput phenotyping, I work to identify trade-offs associated with host resistance strategies.
+<div align="center">
+  <h4>
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13673">Preprint</a>
+  </h4>
+</div>
 </div>
