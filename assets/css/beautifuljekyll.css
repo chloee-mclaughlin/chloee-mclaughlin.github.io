@@ -11,7 +11,7 @@ layout: null
   --link-col: {{ site.link-col | default: "#FFFFFF" }};
   --hover-col: {{ site.hover-col | default: "#231F20" }};
   --navbar-col: {{ site.navbar-col | default: "#303D1A" }};
-  --navbar-text-col: {{ site.navbar-text-col | default: "#344E41" }};
+  --navbar-text-col: {{ site.navbar-text-col | default: "#FFFFFF" }};
   --navbar-border-col: {{ site.navbar-border-col | default: "#303D1A" }};
   --footer-col: {{ site.footer-col | default: "#303D1A" }};
   --footer-text-col: {{ site.footer-text-col | default: "#FFFFFF" }};
