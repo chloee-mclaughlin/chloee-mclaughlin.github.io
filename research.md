@@ -16,11 +16,11 @@ I have developed a method that predicts trait variation across the multivariate 
 I have used this method to model adaptive variation described by environmental gradients and identify loci associated with landrace maize…
 
 <div align="center">
-  <h4>
+  <h3>
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13673">Root anatomy</a> |
     <a href="https://www.nature.com/articles/s41477-024-01654-7">Microbiomes</a> |
     <a href="https://www.nature.com/articles/s41588-024-01761-3">Seminal root number</a>
-  </h4>
+  </h3>
 </div>
 
 <div align="center">
@@ -55,9 +55,9 @@ I have used this method to model adaptive variation described by environmental g
   </p>
 
   <div align="center">
-    <h4>
+    <h3>
       <a href="https://doi.org/10.1038/s41467-025-59488-6">Nature Communications publication</a>
-    </h4>
+    </h3>
   </div>
 
   <div align="center">
@@ -73,8 +73,8 @@ Striga hermonthica is a root parasitic plant and is a major constraint to cereal
 Certain ecotypes of sorghum have adapted resistance strategies in response to local parasite prevalence.  
 Using physiological and high-throughput phenotyping, I work to identify trade-offs associated with host resistance strategies.
 <div align="center">
-  <h4>
+  <h3>
     <a href="https://doi.org/10.1101/2025.08.07.669140">Preprint</a>
-  </h4>
+  </h3>
 </div>
 </div>
