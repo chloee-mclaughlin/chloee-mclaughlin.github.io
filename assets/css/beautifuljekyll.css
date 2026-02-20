@@ -1181,21 +1181,25 @@ pre {
 
 /* section boxes */
 .section-box {
-  background-color: rgba(240, 240, 240, 1); /* opaque light gray */
+  background-color: #A3B18A; 
   padding: 30px 40px;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   margin: 40px 0;
   max-width: 900px;
   text-align: justify; /* nice text alignment */
+  color: #344E41; /* optional: ensures text is readable on green */
 }
+
 .section-box h3 {
   text-align: center;
   margin-top: 0;
+  color: #344E41;
 }
+
 .section-box h4 a {
   margin: 0 12px;
   text-decoration: none;
-  color: #333;
+  color: #344E41; 
 }
 
