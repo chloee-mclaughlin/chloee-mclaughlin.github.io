@@ -1183,7 +1183,7 @@ pre {
 .section-box {
   background-color: #586B32 ; 
   padding: 30px 40px;
-  border-radius: 12px;
+  border-radius: 0px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   margin: 40px 0;
   max-width: 900px;
