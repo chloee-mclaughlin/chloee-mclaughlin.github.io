@@ -16,7 +16,7 @@ Strigolactone effects on Sorghum bicolor ecophysiology and symbioses. Chloee M. 
 
 ### Peer-Reviewed Publications
 
-Morris G. P., Harder A. M., Healey A. L., McLaughlin C. M., Rifkin J. R. et al. (2026) A sorghum pangenome refernce improves global crop trait discovery. Nature 652, 1245 - 1253. [LINK](https://doi.org/10.1038/s41586-026-10229-9)[Developing future resilience from signatures of adaptation across the sorghum pangenome.  bioRxiv 2025.08.01.667986](https://doi.org/10.1101/2025.08.01.667986)
+Morris G. P., Harder A. M., Healey A. L., McLaughlin C. M., Rifkin J. R. et al. (2026) A sorghum pangenome refernce improves global crop trait discovery. Nature 652, 1245 - 1253. [LINK](https://doi.org/10.1038/s41586-026-10229-9)
 
 McLaughlin C. M., Shi Y., Viswanathan V. et al. (2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289.[LINK](https://doi.org/10.1038/s41467-025-59488-6)
 
