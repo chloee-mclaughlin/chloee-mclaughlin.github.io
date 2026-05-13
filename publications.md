@@ -11,22 +11,24 @@ title: Publications
 </div>
 
 ### Preprints
-[Strigolactone effects on Sorghum bicolor ecophysiology and symbioses. Chloee M. McLaughlin, Margarita Takou, Joel Masanga, Erica H. Lawrence-Paul, Evelyn J. Abraham, Melanie Perryman, Anna Calabritto, Amandeep Cheema, Baloua Nebie, Steven Runo, Joshua J. Kellogg, Roberta Croce, Daniel P. Schachtman, Huirong Gao, Ruairidh J. H. Sawers, Jesse R. Lasky. bioRxiv 2025.08.07.669140.](https://doi.org/10.1101/2025.08.07.669140)
 
-[Developing future resilience from signatures of adaptation across the sorghum pangenome. Geoffrey P. Morris, Avril M. Harder, Adam L. Healey, Chloee M. McLaughlin, Brian R. Rice et al. bioRxiv 2025.08.01.667986](https://doi.org/10.1101/2025.08.01.667986)
+Strigolactone effects on Sorghum bicolor ecophysiology and symbioses. Chloee M. McLaughlin, Margarita Takou, Joel Masanga, Erica H. Lawrence-Paul, Evelyn J. Abraham, Melanie Perryman, Anna Calabritto, Amandeep Cheema, Yuxing Luo, Baloua Nebie, Steven Runo, Joshua J. Kellogg, Roberta Croce, Daniel P. Schachtman, Huirong Gao, Ruairidh J. H. Sawers, Jesse R. Lasky.[bioRxiv 2025.08.07.669140.](https://doi.org/10.1101/2025.08.07.669140)
 
 ### Peer-Reviewed Publications
-[McLaughlin C. M., Shi Y., Viswanathan V. et al. (2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289.](https://doi.org/10.1038/s41467-025-59488-6)
 
-[McLaughlin C. M., Hinshaw C., Sandoval-Arango S., Zavala-Paez M., Hamilton  J. A. (2025). Redlisting genetics: towards incorporation of genomic data in conservation assessments.](https://doi.org/10.1007/s10592-024-01671-1)
+Morris G. P., Harder A. M., Healey A. L., McLaughlin C. M., Rifkin J. R. et al. (2026) A sorghum pangenome refernce improves global crop trait discovery. Nature 652, 1245 - 1253. [LINK](https://doi.org/10.1038/s41586-026-10229-9)[Developing future resilience from signatures of adaptation across the sorghum pangenome.  bioRxiv 2025.08.01.667986](https://doi.org/10.1101/2025.08.01.667986)
 
-[Yu P., Li C., Li M. et al. (2024). Seedling root system adaptation to water availability during maize domestication and global expansion. Nat Genet, 56, 1245–1256.](https://doi.org/10.1038/s41588-024-01761-3)
+McLaughlin C. M., Shi Y., Viswanathan V. et al. (2025). Maladaptation in cereal crop landraces following a soot-producing climate catastrophe. Nat Commun 16, 4289.[LINK](https://doi.org/10.1038/s41467-025-59488-6)
 
-[He X., Wang D., Jiang Y. et al. (2024). Heritable microbiome variation is correlated with source environment in locally adapted maize varieties. Nat Plants, 10, 598–617.](https://doi.org/10.1038/s41477-024-01654-7)
+McLaughlin C. M., Hinshaw C., Sandoval-Arango S., Zavala-Paez M., Hamilton  J. A. (2025). Redlisting genetics: towards incorporation of genomic data in conservation assessments.[LINK](https://doi.org/10.1007/s10592-024-01671-1)
 
-[McLaughlin C. M., Li M., Perryman, M. Heymans, A. Schneider H., Lasky J. R., & Sawers R. J. H. (2024). Evidence that variation in root anatomy contributes to local adaptation in Mexican native maize. Evolutionary Applications, 17, e13673.](https://doi.org/10.1111/eva.13673)
+Yu P., Li C., Li M. et al. (2024). Seedling root system adaptation to water availability during maize domestication and global expansion. Nat Genet, 56, 1245–1256.[LINK](https://doi.org/10.1038/s41588-024-01761-3)
 
-[Bellis E.S., McLaughlin C.M., dePamphilis C.W., & Lasky J.R. (2021). The geography of parasite local adaptation to host communities. Ecography, 44: 1205-1217.](https://doi.org/10.1111/ecog.05730)
+He X., Wang D., Jiang Y. et al. (2024). Heritable microbiome variation is correlated with source environment in locally adapted maize varieties. Nat Plants, 10, 598–617.[LINK](https://doi.org/10.1038/s41477-024-01654-7)
+
+McLaughlin C. M., Li M., Perryman, M. Heymans, A. Schneider H., Lasky J. R., & Sawers R. J. H. (2024). Evidence that variation in root anatomy contributes to local adaptation in Mexican native maize. Evolutionary Applications, 17, e13673.[LINK](https://doi.org/10.1111/eva.13673)
+
+Bellis E.S., McLaughlin C.M., dePamphilis C.W., & Lasky J.R. (2021). The geography of parasite local adaptation to host communities. Ecography, 44: 1205-1217.[LINK](https://doi.org/10.1111/ecog.05730)
 
 ### Posters and Presentations
 
