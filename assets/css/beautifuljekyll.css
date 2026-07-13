@@ -19,8 +19,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#231F20" }};
 
   /* common CSS variables */
-  --body-font: 'Garamond', 'Times New Roman', serif;
-  --header-font: 'Merriweather', 'Georgia', serif;
+  --body-font: 'Helvetica', sans serif;
+  --header-font: 'Georgia', serif;
   --mid-col: #808080;
 }
 
