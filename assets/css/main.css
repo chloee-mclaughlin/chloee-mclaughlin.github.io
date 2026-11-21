@@ -213,15 +213,18 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 1rem;
-	}
-
-	h5 {
 		font-size: 0.9rem;
 	}
 
+	h5 {
+		font-size: 0.7rem;
+	}
+
 	h6 {
-		font-size: 0.8rem;
+		font-size: 0.6rem;
+		margin: 0 0 0.5rem 0;
+
+		
 	}
 
 	sub {
@@ -305,7 +308,7 @@ input, select, textarea {
 		color: #212931;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5,  {
 		color: #212931;
 	}
 
